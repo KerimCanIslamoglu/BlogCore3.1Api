@@ -1,0 +1,14 @@
+C:\Users\kerim\source\repos\ApiProject\ApiProject.Business\bin\Debug\netcoreapp3.1\ApiProject.Business.deps.json
+C:\Users\kerim\source\repos\ApiProject\ApiProject.Business\bin\Debug\netcoreapp3.1\ApiProject.Business.dll
+C:\Users\kerim\source\repos\ApiProject\ApiProject.Business\bin\Debug\netcoreapp3.1\ApiProject.Business.pdb
+C:\Users\kerim\source\repos\ApiProject\ApiProject.Business\bin\Debug\netcoreapp3.1\ApiProject.DataAccess.dll
+C:\Users\kerim\source\repos\ApiProject\ApiProject.Business\bin\Debug\netcoreapp3.1\ApiProject.Entities.dll
+C:\Users\kerim\source\repos\ApiProject\ApiProject.Business\bin\Debug\netcoreapp3.1\ApiProject.DataAccess.pdb
+C:\Users\kerim\source\repos\ApiProject\ApiProject.Business\bin\Debug\netcoreapp3.1\ApiProject.Entities.pdb
+C:\Users\kerim\source\repos\ApiProject\ApiProject.Business\obj\Debug\netcoreapp3.1\ApiProject.Business.csprojAssemblyReference.cache
+C:\Users\kerim\source\repos\ApiProject\ApiProject.Business\obj\Debug\netcoreapp3.1\ApiProject.Business.AssemblyInfoInputs.cache
+C:\Users\kerim\source\repos\ApiProject\ApiProject.Business\obj\Debug\netcoreapp3.1\ApiProject.Business.AssemblyInfo.cs
+C:\Users\kerim\source\repos\ApiProject\ApiProject.Business\obj\Debug\netcoreapp3.1\ApiProject.Business.csproj.CopyComplete
+C:\Users\kerim\source\repos\ApiProject\ApiProject.Business\obj\Debug\netcoreapp3.1\ApiProject.Business.dll
+C:\Users\kerim\source\repos\ApiProject\ApiProject.Business\obj\Debug\netcoreapp3.1\ApiProject.Business.pdb
+C:\Users\kerim\source\repos\ApiProject\ApiProject.Business\obj\Debug\netcoreapp3.1\ApiProject.Business.csproj.CoreCompileInputs.cache

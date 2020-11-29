@@ -1,0 +1,15 @@
+C:\Users\kerim\source\repos\ApiProject\ApiProject.DataAccess\bin\Debug\netcoreapp3.1\ApiProject.DataAccess.deps.json
+C:\Users\kerim\source\repos\ApiProject\ApiProject.DataAccess\bin\Debug\netcoreapp3.1\ApiProject.DataAccess.runtimeconfig.json
+C:\Users\kerim\source\repos\ApiProject\ApiProject.DataAccess\bin\Debug\netcoreapp3.1\ApiProject.DataAccess.runtimeconfig.dev.json
+C:\Users\kerim\source\repos\ApiProject\ApiProject.DataAccess\bin\Debug\netcoreapp3.1\ApiProject.DataAccess.dll
+C:\Users\kerim\source\repos\ApiProject\ApiProject.DataAccess\bin\Debug\netcoreapp3.1\ApiProject.DataAccess.pdb
+C:\Users\kerim\source\repos\ApiProject\ApiProject.DataAccess\bin\Debug\netcoreapp3.1\ApiProject.Entities.dll
+C:\Users\kerim\source\repos\ApiProject\ApiProject.DataAccess\bin\Debug\netcoreapp3.1\ApiProject.Entities.pdb
+C:\Users\kerim\source\repos\ApiProject\ApiProject.DataAccess\obj\Debug\netcoreapp3.1\ApiProject.DataAccess.csprojAssemblyReference.cache
+C:\Users\kerim\source\repos\ApiProject\ApiProject.DataAccess\obj\Debug\netcoreapp3.1\ApiProject.DataAccess.AssemblyInfoInputs.cache
+C:\Users\kerim\source\repos\ApiProject\ApiProject.DataAccess\obj\Debug\netcoreapp3.1\ApiProject.DataAccess.AssemblyInfo.cs
+C:\Users\kerim\source\repos\ApiProject\ApiProject.DataAccess\obj\Debug\netcoreapp3.1\ApiProject.DataAccess.csproj.CopyComplete
+C:\Users\kerim\source\repos\ApiProject\ApiProject.DataAccess\obj\Debug\netcoreapp3.1\ApiProject.DataAccess.dll
+C:\Users\kerim\source\repos\ApiProject\ApiProject.DataAccess\obj\Debug\netcoreapp3.1\ApiProject.DataAccess.pdb
+C:\Users\kerim\source\repos\ApiProject\ApiProject.DataAccess\obj\Debug\netcoreapp3.1\ApiProject.DataAccess.genruntimeconfig.cache
+C:\Users\kerim\source\repos\ApiProject\ApiProject.DataAccess\obj\Debug\netcoreapp3.1\ApiProject.DataAccess.csproj.CoreCompileInputs.cache
